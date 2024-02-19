@@ -1,2 +1,5 @@
 *.Python linguist-detectable=true
 *.html linguist-vendored
+autom_classif/* linguist-vendored 
+ecog_eeg/* linguist-vendored 
+eog_emg/* linguist-vendored 
