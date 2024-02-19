@@ -1,5 +1,3 @@
-*.Python linguist-detectable=true
-*.html linguist-vendored
-autom_classif/* linguist-vendored 
+AUTOM_CLASSIF.ipynb/* linguist-vendored 
 ECOG_EMG_analysis.ipynb/* linguist-vendored 
 EOG_EMG_analysis.ipynb/* linguist-vendored 
