@@ -1,6 +1,2 @@
-AUTOM_CLASSIF.ipynb/* linguist-vendored 
-ECOG_EEG_analysis.ipynb/* linguist-vendored 
-EOG_EMG_analysis.ipynb/* linguist-vendored 
-autom_classif/* linguist-vendored 
-ecog_eeg/* linguist-vendored 
-eog_emg/* linguist-vendored 
+*.py linguist-language=python
+*.ipynb linguist-documentation
