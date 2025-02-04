@@ -1,3 +1,3 @@
-# Biodata analysis #python
+# Biodata analysis
 
-Biodata analysis tasks which were completed during university course.
+Biodata analysis exercises which were completed during Vilnius university course.
